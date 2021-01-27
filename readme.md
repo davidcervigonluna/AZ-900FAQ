@@ -34,7 +34,7 @@ Estos cursos tienen varios dias de duración, e incluyen laboratorios guiados e 
 
 ### ¿Como puedo reservar mi examen?. ¿Recibiré un voucher por correo electrónico?
 
-El exámen lo podréis programar gratuitamente transcurridos unos dias después de la finalzación del curso a través de https://docs.microsoft.com/es-es/learn/certifications/exams/az-900 (opción Pearson VUE). Esto hace innecesario el uso de vouchers. Para ello deberás utilizar la dirección de correo electronico que utilizaste para registrarte en la formación. En dicha dirección habrás recibido los enlaces para asistir a las dos jornadas del curso, y también recibiras un correo en los proximos días agradeciéndote tu asistencia, con estas mismas instrucciones para programar tu exámen gratuito. Aqui te dejamos un video con el paso a paso de cñomo hacerlo: https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP 
+El exámen lo podréis programar gratuitamente transcurridos unos dias después de la finalzación del curso a través de https://docs.microsoft.com/es-es/learn/certifications/exams/az-900 (opción Pearson VUE). Esto hace innecesario el uso de vouchers. Para ello deberás utilizar la dirección de correo electronico que utilizaste para registrarte en la formación. En dicha dirección habrás recibido los enlaces para asistir a las dos jornadas del curso, y también recibiras un correo en los proximos días agradeciéndote tu asistencia, con estas mismas instrucciones para programar tu exámen gratuito. Aqui te dejamos un video con el paso a paso de como hacerlo: https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP 
 
 ### ¿Como puedo recibir soporte si tengo algun problema durante el proceso de reclamacion del beneficio de examen gratuito?
 
