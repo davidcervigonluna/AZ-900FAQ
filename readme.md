@@ -2,9 +2,9 @@
 
 ## Sobre esta formación
 
-### ¿Se esta grabando la sesión?. ¿Están los contenidos disponibles para poder descargarlos?
+### ¿Se esta grabando la sesión? ¿Están los contenidos disponibles para poder descargarlos?
 
-Al ser el AZ-900 un curso oficial de Microsoft (MOC), no podemos hacer publica la grabación, ni compartir el material del instructor. Sin embargo, podeis encontrar todo el contenido de los cuatro módulos de los que consta este curso en Microsoft Learn
+Al ser el AZ-900 un curso oficial de Microsoft (MOC), no podemos hacer publica la grabación, ni compartir el material del instructor. Sin embargo, podeis encontrar todo el contenido de los seis módulos de los que consta este curso en Microsoft Learn
 
 - [Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-cloud-concepts/)
 - [Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-core-azure-services/)
@@ -13,7 +13,7 @@ Al ser el AZ-900 un curso oficial de Microsoft (MOC), no podemos hacer publica l
 - [Aspectos básicos de Azure, parte 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 - [Aspectos básicos de Azure, parte 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/)
 
-### ¿Hay mas formaciones como esta?. ¿Dónde me puedo informar?
+### ¿Hay mas formaciones como esta? ¿Dónde me puedo informar?
 
 Si, dentro de los Virtual Training Days tenemos más formaciones de Azure Fundamentals programadas, asi como Data Fundamentals, AI Fundamentals, y Power Platform Fundamentals. Puedes informarte en:
 
@@ -32,9 +32,12 @@ Estos cursos tienen varios dias de duración, e incluyen laboratorios guiados e 
 
 ## Sobre el examen
 
-### ¿Como puedo reservar mi examen?. ¿Recibiré un voucher por correo electrónico?
+### ¿Como puedo reservar mi examen? ¿Recibiré un voucher por correo electrónico?
 
-El exámen lo podréis programar gratuitamente transcurridos unos dias después de la finalzación del curso a través de https://docs.microsoft.com/es-es/learn/certifications/exams/az-900 (opción Pearson VUE). Esto hace innecesario el uso de vouchers. Para ello deberás utilizar la dirección de correo electronico que utilizaste para registrarte en la formación. En dicha dirección habrás recibido los enlaces para asistir a las dos jornadas del curso, y también recibiras un correo en los proximos días agradeciéndote tu asistencia, con estas mismas instrucciones para programar tu exámen gratuito. Aqui te dejamos un video con el paso a paso de cómo hacerlo: https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP 
+El examen lo podréis programar gratuitamente transcurridos unos dias después de la finalzación del curso a través de https://docs.microsoft.com/es-es/learn/certifications/exams/az-900 (opción Pearson VUE). Esto hace innecesario el uso de vouchers. Para ello deberás utilizar la dirección de correo electronico que utilizaste para registrarte en la formación. En dicha dirección habrás recibido los enlaces para asistir a las dos jornadas del curso, y también recibiras un correo en los proximos días agradeciéndote tu asistencia, con estas mismas instrucciones para programar tu examen gratuito. Aqui te dejamos un video con el paso a paso de cómo hacerlo: https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP 
+
+### ¿Hay fecha límite para realizar el examen?
+Sí, 3 meses desde que se habilita el intento gratuito por asistir a la sesión
 
 ### ¿Como puedo recibir soporte si tengo algun problema durante el proceso de reclamacion del beneficio de examen gratuito?
 
@@ -44,13 +47,13 @@ Puedes reportar tu problema en https://aka.ms/mcpforum. Mas información en http
 
 La asistencia a la formación da derecho a solamente un examen. Podeis encontrar a politica sobre repetición de examenes aqui: https://docs.microsoft.com/es-es/learn/certifications/exam-security-policy-and-exam-retake-policy
 
-### ¿El exámen está disponible en Español?
+### ¿El examen está disponible en Español?
 
 Si, puedes elegir en qué idioma hacer el examen. Encontrarás el Español en la lista de idiomas disponibles
 
-### ¿Cómo se realiza el examen?. ¿Puede hacerse presencial?. ¿Algún consejo para hacerlo en remoto?
+### ¿Cómo se realiza el examen? ¿Puede hacerse presencial? ¿Algún consejo para hacerlo en remoto?
 
-El exámen se puede hacer presencialmente en alguno de los centros autorizados por Pearson VUE, pero mucha gente, sobre todo dadas las circunstancias, prefiere hacerlo en remoto. Puedes seleccionar qué opción quieres durante el proceso de reserva del examen. Si lo vas a hacer en remoto, necesitarás tener activos audio y video, un lugar tranquilo y despejado, y es recomendable probar el Secure Browser de Pearson VUE, que es el software que se usa para lanzar el examen. 
+El examen se puede hacer presencialmente en alguno de los centros autorizados por Pearson VUE, pero mucha gente, sobre todo dadas las circunstancias, prefiere hacerlo en remoto. Puedes seleccionar qué opción quieres durante el proceso de reserva del examen. Si lo vas a hacer en remoto, necesitarás tener activos audio y video, un lugar tranquilo y despejado, y es recomendable probar el Secure Browser de Pearson VUE, que es el software que se usa para lanzar el examen. 
 
 Encontraras las respuestas a todas tus preguntas aqui: https://docs.microsoft.com/es-es/learn/certifications/online-exams 
 
@@ -59,9 +62,9 @@ Aqui teneis un par de guías paso a paso para programar el examen online
 - https://www.linkedin.com/smart-links/AQE8dAurNcbSBQ
 - https://aka.ms/TrainingDayExamDiscount 
 
-### ¿Cómo es el exámen?
+### ¿Cómo es el examen?
 
-La prueba consta de entre 40-50 preguntas tipo test, de opción múltiple, donde las respuestas fallidas no restan puntuación. El tiempo de duración es de en torno a una hora. Es necesario obtener 700/900 para aprobar. Al contrario de algunos exámenes avanzados, el examen del AZ-900 no incluye laboratorios ni parte práctica
+La prueba consta de entre 40-50 preguntas tipo test, de opción múltiple, donde las respuestas fallidas no restan puntuación. El tiempo de duración es de en torno a una hora. Es necesario obtener 700/1000 para aprobar. Al contrario de algunos exámenes avanzados, el examen del AZ-900 no incluye laboratorios ni parte práctica
 
 ## ¿Donde puedo encontrar recursos adicionales para continuar aprendiendo y preparar el examen de certificación?
 
