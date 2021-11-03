@@ -61,7 +61,7 @@ Aqui teneis un par de guías paso a paso para programar el examen online
 
 ### ¿Cómo es el exámen?
 
-La prueba consta de entre 40-50 preguntas tipo test, de opción múltiple, donde las respuestas fallidas no restan puntuación. El tiempo de duración es de en torno a una hora. Es necesario obtener 700/900 para aprobar. Al contrario de algunos exámenes avanzados, el examen del AZ-900 no incluye laboratorios ni parte práctica
+La prueba consta de entre 40-50 preguntas tipo test, de opción múltiple, donde las respuestas fallidas no restan puntuación. El tiempo de duración es de en torno a una hora. Es necesario obtener 700/1000 para aprobar. Al contrario de algunos exámenes avanzados, el examen del AZ-900 no incluye laboratorios ni parte práctica
 
 ## ¿Donde puedo encontrar recursos adicionales para continuar aprendiendo y preparar el examen de certificación?
 
