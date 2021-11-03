@@ -4,7 +4,7 @@
 
 ### ¿Se esta grabando la sesión?. ¿Están los contenidos disponibles para poder descargarlos?
 
-Al ser el AZ-900 un curso oficial de Microsoft (MOC), no podemos hacer publica la grabación, ni compartir el material del instructor. Sin embargo, podeis encontrar todo el contenido de los cuatro módulos de los que consta este curso en Microsoft Learn
+Al ser el AZ-900 un curso oficial de Microsoft (MOC), no podemos hacer publica la grabación, ni compartir el material del instructor. Sin embargo, podeis encontrar todo el contenido de los seis módulos de los que consta este curso en Microsoft Learn
 
 - [Aspectos básicos de Azure, parte 1: Descripción de los conceptos básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-cloud-concepts/)
 - [Aspectos básicos de Azure, parte 2: Descripción de los servicios básicos de Azure](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-core-azure-services/)
